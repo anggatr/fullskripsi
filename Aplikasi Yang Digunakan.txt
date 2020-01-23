@@ -1,0 +1,7 @@
+Aplikasi yang digunakan:
+
+Arduino IDE: https://www.arduino.cc/en/main/software
+
+Fritzing:https://fritzing.org/download/
+
+Aplikasi Blynk:https://play.google.com/store/apps/details?id=cc.blynk&hl=in
